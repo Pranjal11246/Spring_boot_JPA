@@ -1,0 +1,12 @@
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\JpaApplication.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\Author.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\BaseEntity.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\Course.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\File.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\Lecture.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\Resources.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\Section.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\Text.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\models\Video.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\Repositories\AuthorRepository.java
+D:\alibujpa\jpa\src\main\java\com\alibucoding\jpa\VideoRepository.java
